@@ -1,0 +1,14 @@
+code: card-widget
+titles:
+  en: card-widget
+  it: card widget
+group: free
+customUiPath: card-widget.ftl
+configUi:
+    customElement: dw-news-card-config
+    resources:
+    - news-plugin/static/js/2.e62d943c.chunk.js
+    - news-plugin/static/js/main.8482d4ca.chunk.js
+    - news-plugin/static/js/runtime-main.5fd7e98a.js
+
+# entando_resource_injection_point

@@ -1,0 +1,8 @@
+image: abdulzeedo/dw-news-content:0.0.7-SNAPSHOT
+dbms: none
+deploymentBaseName: news-content
+healthCheckPath: /management/health
+ingressPath: /news-content
+roles:
+  - jhipster-admin
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
