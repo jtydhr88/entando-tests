@@ -1,0 +1,11 @@
+code: news-plugin
+description: This is the jhipster bundle
+
+components:
+  plugins:
+    - plugins/jhipster-plugin.yaml
+
+  widgets:
+      - ui/widgets/dashboard/card-widget/card-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
